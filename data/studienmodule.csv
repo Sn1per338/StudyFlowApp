@@ -1,0 +1,87 @@
+modul_id,titel,semesterempfehlungen,ects,zeitaufwand_stunden,modulart,pruefungsform,pruefungsleistung,zugangsvoraussetzungen,sprache,module_page,kurse
+DLBWIRITT,Einführung in das wissenschaftliche Arbeiten für IT und Technik,1,5,150,Methoden/Projektmanagement,Advanced Workbook,Advanced Workbook,keine,Deutsch,21,DLBWIRITT01 - Einführung in das wissenschaftliche Arbeiten für IT und Technik
+DLBDSIPWP_D,Einführung in die Programmierung mit Python,1,5,150,Programmierung,Klausur,"Klausur, 90 Minuten",keine,Deutsch,37,DLBDSIPWP01_D - Einführung in die Programmierung mit Python
+IGIS-01,Grundlagen der Softwaretechnik,1,5,150,Software Engineering,Klausur,"Klausur, 90 Minuten",keine,Deutsch,13,IGIS01-01 - Grundlagen der Softwaretechnik
+DLBFTPPP,Projekt: Programmierung mit Python,1,5,150,Programmierung,Projektpräsentation,Projektpräsentation,keine,Deutsch,44,DLBFTPPP01 - Projekt: Programmierung mit Python
+IREN,Requirements Engineering,1,5,150,Software Engineering,Klausur,"Klausur, 90 Minuten",keine,Deutsch,29,IREN01 - Requirements Engineering
+IDBS,Datenmodellierung und Datenbanksysteme,2,5,150,Daten/KI,Klausur,"Klausur, 90 Minuten",keine,Deutsch,65,IDBS01 - Datenmodellierung und Datenbanksysteme
+DLBINGOPJ-01,Grundlagen der objektorientierten Programmierung mit Java,2,5,150,Programmierung,Klausur,"Klausur, 90 Minuten",keine,Deutsch,58,DLBCSOOPJ01_D - Grundlagen der objektorientierten Programmierung mit Java
+IPWA1-01,Programmierung von Webanwendungsoberflächen,2,5,150,Programmierung,Klausur oder Schriftliche Ausarbeitung,"Klausur oder Schriftliche Ausarbeitung: Fallstudie, 90 Minuten",keine,Deutsch,50,IPWA01-01 - Programmierung von Webanwendungsoberflächen
+DLBITPEWP-01,Projekt: Einstieg in die Web-Programmierung,2,5,150,Programmierung,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Projektbericht,keine,Deutsch,82,DLBITPEWP01-01 - Projekt: Einstieg in die Web-Programmierung
+ISPE,Spezifikation,2,5,150,Software Engineering,Klausur,"Klausur, 90 Minuten",keine,Deutsch,74,ISPE01 - Spezifikation
+DLBIADPS-01,"Algorithmen, Datenstrukturen und Programmiersprachen",3,5,150,Daten/KI,Advanced Workbook,Advanced Workbook,keine,Deutsch,90,"DLBIADPS01-01 - Algorithmen, Datenstrukturen und Programmiersprachen"
+DLBSEPDOCD_D,DevOps und Continuous Delivery,3,5,150,Cloud/DevOps,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,98,DLBSEPDOCD01_D - DevOps und Continuous Delivery
+DLBMINPAPCC,Projekt: Allgemeine Programmierung mit C/C++,3,5,150,Programmierung,Portfolio,Portfolio,keine,Deutsch,120,DLBMINPAPCC01 - Projekt: Allgemeine Programmierung mit C/C++
+IQSS,Qualitätssicherung im Softwareprozess,3,5,150,Software Engineering,Klausur,"Klausur, 90 Minuten",keine,Deutsch,112,IQSS01 - Qualitätssicherung im Softwareprozess
+DLBSESA,Software-Architektur,3,5,150,Software Engineering,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,106,DLBSESA01 - Software-Architektur
+DLBSEPENIT_D,Ethik und Nachhaltigkeit in der IT,4,5,150,Ethik/Gesellschaft,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,128,DLBSEPENIT01_D - Ethik und Nachhaltigkeit in der IT
+DLBCSEMSE1-01_D,Mobile Software Engineering,4,5,150,Software Engineering,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,142,DLBCSEMSE01-01_D - Mobile Software Engineering
+ISEF,Projekt: Software Engineering,4,5,150,Software Engineering,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Projektbericht,keine,Deutsch,155,ISEF01 - Projekt: Software Engineering
+ISSE,Seminar: Software Engineering,4,5,150,Software Engineering,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Seminararbeit,keine,Deutsch,149,ISSE01 - Seminar: Software Engineering
+DLBWIWTMAS1,Techniken und Methoden der agilen Softwareentwicklung,4,5,150,Sonstiges,Klausur,"Klausur, 90 Minuten",keine,Deutsch,135,DLBWIWTMAS01 - Techniken und Methoden der agilen Softwareentwicklung
+DLBDSEAIS1-01_D,Artificial Intelligence,5,5,150,Daten/KI,Klausur,"Klausur, 90 Minuten",keine,Deutsch,260,DLBDSEAIS01-01_D - Artificial Intelligence	 NLP - Verarbeitung natürlicher Sprache
+DLBMIAMVR1,"Augmented, Mixed und Virtual Reality",5,5,150,Hardware/IoT/Robotik/XR,Klausur oder Advanced Workbook,"Klausur oder Advanced Workbook, 90 Minuten",keine,Deutsch,177,"DLBMIAMVR01 - Augmented, Mixed und Virtual Reality"
+BBWL-01,Betriebswirtschaftslehre,5,5,150,Wirtschaft/Organisation,,,keine,Deutsch,266,BBWL01-01 - BWL I	 BBWL02-01 - BWL II
+DLBDBBI,Business Intelligence,5,5,150,Daten/KI,Klausur,"Klausur, 90 Minuten",keine,Deutsch,245,IWBI01 - Business Intelligence
+DLBDBCM,Change Management,5,5,150,Methoden/Projektmanagement,Klausur,"Klausur, 90 Minuten",keine,Deutsch,402,DLBWPOCM02 - Change Management
+DLBDSCC-01_D,Cloud Computing,"5,6",5,150,Cloud/DevOps,Klausur,"Klausur, 90 Minuten",keine,Deutsch,170,DLBDSCC01-01_D - Cloud Computing
+DLBDSCC-01_D,Cloud Computing,"5,6",5,150,Cloud/DevOps,Klausur,"Klausur, 90 Minuten",keine,Deutsch,495,DLBDSCC01-01_D - Cloud Computing
+DLBDBDL,Deep Learning,5,5,150,Daten/KI,Klausur,"Klausur, 90 Minuten",keine,Deutsch,237,DLBDBDL01 - Deep Learning
+DLBKDDSV-02,Designgrundlagen: sehen und verstehen,5,5,150,Web/UI/UX,Creative Workbook,Creative Workbook,keine,Deutsch,191,DLBKDDSV01-02 - Designgrundlagen: sehen und verstehen
+DLBAVRECC,Einführung in Computer Graphics,5,5,150,Hardware/IoT/Robotik/XR,Advanced Workbook,Advanced Workbook,keine,Deutsch,304,DLBAVRECC01 - Einführung in Computer Graphics
+DLBDSIDS-01_D,Einführung in Data Science,5,5,150,Daten/KI,Advanced Workbook,Advanced Workbook,keine,Deutsch,230,DLBDSIDS01-01_D - Einführung in Data Science
+DLBINGEDS,Einführung in Datenschutz und IT-Sicherheit,5,5,150,IT-Sicherheit,Klausur,"Klausur, 90 Minuten",keine,Deutsch,163,DLBISIC01 - Einführung in Datenschutz und IT-Sicherheit
+DLBAIINLP_D,Einführung in NLP,5,5,150,Daten/KI,Klausur,"Klausur, 90 Minuten",keine,Deutsch,389,DLBAIINLP01_D - Einführung in NLP
+DLBUXEUR,Einführung in User Research,5,5,150,Web/UI/UX,Klausur,"Klausur, 90 Minuten",keine,Deutsch,281,DLBUXEUR01 - Einführung in User Research
+DLBINGEIT,Einführung in das Internet of Things,5,5,150,Hardware/IoT/Robotik/XR,Klausur oder Fachpräsentation,"Klausur oder Fachpräsentation, 90 Minuten",keine,Deutsch,222,DLBINGEIT01 - Einführung in das Internet of Things
+DLBROIR-01_D,Einführung in die Robotik,5,5,150,Hardware/IoT/Robotik/XR,Klausur,"Klausur, 90 Minuten",keine,Deutsch,351,DLBROIR01-01_D - Einführung in die Robotik
+DLBROES_D,Embedded Systems,5,5,150,Hardware/IoT/Robotik/XR,Klausur,"Klausur, 90 Minuten",keine,Deutsch,358,DLBROES01_D - Embedded Systems
+DLBDSEDAV,Exploratory Data Analysis and Visualization,5,5,150,Daten/KI,Written Assessment,Written Assessment: Written Assignment,none,English,371,DLBDSEDAV01 - Exploratory Data Analysis and Visualization
+DLBMIUID1-01,Gestaltung und Ergonomie von User Interfaces,5,5,150,Web/UI/UX,Klausur,"Klausur, 90 Minuten",keine,Deutsch,289,DLBMIUID01-01 - Gestaltung und Ergonomie von User Interfaces
+DLBWINGM,Grundlagen der Mathematik,5,5,150,Mathematik,Klausur,"Klausur, 90 Minuten",keine,Deutsch,215,DLBWINGM01 - Grundlagen der Mathematik
+DLBCSESPB_D,Grundzüge des System-Pentestings,5,5,150,IT-Sicherheit,Klausur,"Klausur, 90 Minuten",keine,Deutsch,336,DLBCSESPB01_D - Grundzüge des System-Pentestings
+DLBSEPITI-01_D,IT-Infrastruktur,5,5,150,Sonstiges,Klausur,"Klausur, 90 Minuten",keine,Deutsch,297,DLBSEPITI01-01_D - IT-Infrastruktur
+DLBISIC2-01,Kryptografische Verfahren,5,5,150,IT-Sicherheit,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,207,DLBISIC02-01 - Kryptografische Verfahren
+DLBPAWSCLAD,Project: AWS - Cloud Advanced,5,5,150,Cloud/DevOps,Written Assessment,Written Assessment: Project Report,none,English,328,DLBPAWSCLAD01 - Project: AWS - Cloud Advanced
+DLBPAWSCLES,Project: AWS - Cloud Essentials,5,5,150,Cloud/DevOps,Written Assessment,Written Assessment: Project Report,none,English,321,DLBPAWSCLES01 - Project: AWS - Cloud Essentials	 AWS - Students will learn the foundational concepts and services of Amazon Web Services
+DLBDBPBI,Projekt: Business Intelligence,5,5,150,Daten/KI,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Projektbericht,keine,Deutsch,383,IWBI02 - Projekt: Business Intelligence
+DLBSEPCP_D,Projekt: Cloud Programming,5,5,150,Programmierung,Portfolio,Portfolio,keine,Deutsch,416,DLBSEPCP01_D - Projekt: Cloud Programming
+DLBDSPBDM_D,Projekt: Data-Mart-Erstellung in SQL,5,5,150,Daten/KI,Portfolio,Portfolio,keine,Deutsch,376,DLBDSPBDM01_D - Projekt: Data-Mart-Erstellung in SQL
+DLBWIPDTIT,Projekt: Design Thinking für IT,5,5,150,Daten/KI,Portfolio,Portfolio,keine,Deutsch,409,Projekt: Design Thinking für IT - Nora Al-Kassab	 DLBWIPDTIT01 - Projekt: Design Thinking für IT
+DLBAIPNLP_D,Projekt: NLP,5,5,150,Daten/KI,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Projektbericht,keine,Deutsch,396,Projekt: NLP - Maja Popovic	 DLBAIPNLP01_D - Projekt: NLP
+DLBDSOOFPP_D,Projekt: Objektorientierte und funktionale Programmierung mit Python,5,5,150,Programmierung,Portfolio,Portfolio,keine,Deutsch,253,DLBDSOOFPP01_D - Projekt: Objektorientierte und funktionale Programmierung mit Python
+DLBMIAMVR2,Projekt: X-Reality,5,5,150,Hardware/IoT/Robotik/XR,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Projektbericht,keine,Deutsch,185,DLBMIAMVR02 - Projekt: X-Reality
+DLBAVRSEGAXR,Seminar: Ethische und gesellschaftliche Aspekte von XR,5,5,150,Ethik/Gesellschaft,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Seminararbeit,keine,Deutsch,309,Seminar: Ethische und gesellschaftliche Aspekte von XR - N.N.	 DLBAVRSEGAXR01 - Seminar: Ethische und gesellschaftliche Aspekte von XR
+DLBDBSC,Statistical Computing,5,5,150,Daten/KI,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,365,DLBDBSC01 - Statistical Computing
+DLBCSEEFT1_D,Threat Modeling,5,5,150,IT-Sicherheit,Klausur,"Klausur, 90 Minuten",keine,Deutsch,344,DLBCSEEFT01_D - Threat Modeling
+DLBUXUXP-01,UX-Prototyping,5,5,150,Web/UI/UX,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Hausarbeit,keine,Deutsch,314,DLBUXUXP01-01 - UX-Prototyping
+DLBMIUEX1-01,User Experience,5,5,150,Web/UI/UX,Klausur,"Klausur, 90 Minuten",keine,Deutsch,199,DLBMIUEX01-01 - User Experience
+DLBDSEDA1_D,Advanced Data Analysis,6,5,150,Daten/KI,Klausur,"Klausur, 90 Minuten",keine,Deutsch,508,DLBDSEDA01_D - Advanced Data Analysis
+DLBAVRAEU,Anwendungsentwicklung mit Unity,6,5,150,Hardware/IoT/Robotik/XR,Creative Workbook,Creative Workbook,keine,Deutsch,446,DLBAVRAEU01 - Anwendungsentwicklung mit Unity
+BBAK,Bachelorarbeit,6,10,300,Abschluss,,,keine,Deutsch,621,BBAK01 - Bachelorarbeit	 BBAK02 - Kolloquium
+DLBDSEDE1,Data Engineering,6,5,150,Daten/KI,Exam,"Exam, 90 Minutes",none,English,515,DLBDSEDE01 - Data Engineering
+DLBCSDSJCL2_D,Datenstruktur und Java-Klassenbibliothek,6,5,150,Programmierung,Advanced Workbook,Advanced Workbook,keine,Deutsch,424,DLBCSDSJCL02_D - Datenstruktur und Java-Klassenbibliothek
+DLBCSEDCSW_D,DevSecOps und gängige Software-Schwachstellen,6,5,150,IT-Sicherheit,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Hausarbeit,keine,Deutsch,467,DLBCSEDCSW01_D - DevSecOps und gängige Software-Schwachstellen
+DLBLODB-01,Digitale Business-Modelle,6,5,150,Wirtschaft/Organisation,Klausur,"Klausur, 90 Minuten",keine,Deutsch,599,DLBLODB01-01 - Digitale Business-Modelle
+DLBKPSGUV,Gesprächsführung und Verhandlungstechniken www.iu.org 9,6,5,150,Methoden/Projektmanagement,Klausur,"Klausur, 90 Minuten",keine,Deutsch,540,DLBKPSGUV01 - Gesprächsführung und Verhandlungstechniken
+IPMG-01,IT-Projektmanagement,6,5,150,Methoden/Projektmanagement,Klausur,"Klausur, 90 Minuten",keine,Deutsch,608,IPMG01-01 - IT-Projektmanagement
+DLBIIUG,Informatik und Gesellschaft,6,5,150,Ethik/Gesellschaft,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Hausarbeit,keine,Deutsch,593,DLBIIUG01 - Informatik und Gesellschaft
+DLBIHK,Interkulturelle und ethische Handlungskompetenzen,6,5,150,Ethik/Gesellschaft,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,578,DLBIHK01 - Interkulturelle und ethische Handlungskompetenzen
+DLBKA,Kollaboratives Arbeiten,6,5,150,Methoden/Projektmanagement,Fachpräsentation,Fachpräsentation,keine,Deutsch,585,DLBKA01 - Kollaboratives Arbeiten
+DLBMDMMD-01,Mobile App Design,6,5,150,Web/UI/UX,Creative Workbook,Creative Workbook,keine,Deutsch,453,DLBMDMMD01-01 - Mobile App Design
+DLBAVROOPC,Objektorientierte Programmierung mit C#,6,5,150,Programmierung,Klausur oder Advanced Workbook,"Klausur oder Advanced Workbook, 90 Minuten",keine,Deutsch,440,DLBAVROOPC01 - Objektorientierte Programmierung mit C#
+DLBITPIWI,Praktikum: Informatik & Wirtschaftsinformatik,6,30,900,Wirtschaft/Organisation,Praxisreflexion (best. / nicht best.),Praxisreflexion (best. / nicht best.),keine,Deutsch,574,DLBITPIWI01 - Praktikum: Informatik & Wirtschaftsinformatik
+DLBITOWAWBI,Programmierung von Web-Anwendungen - webbasierte betriebliche Informa- tionssysteme,6,5,150,Programmierung,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,432,DLBITOWAWBI01 - Programmierung von Web-Anwendungen - webbasierte betriebliche Informationssysteme
+DLBDSEDE2,Project: Data Engineering,6,5,150,Daten/KI,Portfolio,Portfolio,none,English,521,DLBDSEDE02 - Project: Data Engineering
+DLBCCOEDAH,Project: Digitalization and Automation Hackathon,6,5,150,Projekt,Portfolio,Portfolio,none,English,615,DLBCCOEDAH01 - Project: Digitalization and Automation Hackathon
+DLBPKIEKPT1-01,Projekt: AI Fluency - Einführung in die generative KI,6,5,150,Daten/KI,Portfolio,Portfolio,keine,Deutsch,525,DLBPKIEKPT01-01 - Projekt: AI Fluency - Einführung in die generative KI
+DLBCSEEDSO1_D,Projekt: Agiles DevSecOps-Software-Engineering,6,5,150,IT-Sicherheit,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Projektbericht,keine,Deutsch,475,DLBCSEEDSO01_D - Projekt: Agiles DevSecOps-Software-Engineering	 CI/CD - Development
+DLBKDPAPPD,Projekt: Applikationsdesign,6,5,150,Web/UI/UX,Portfolio,Portfolio,keine,Deutsch,461,DLBKDPAPPD01 - Projekt: Applikationsdesign
+DLBPDWDDAIT2,Projekt: Design für das Internet of Things,6,5,150,Hardware/IoT/Robotik/XR,Portfolio,Portfolio,keine,Deutsch,502,DLBPDWDDAIT02 - Projekt: Design für das Internet of Things
+DLBFMPGKIU,Projekt: Generative KI im Unternehmenskontext,6,5,150,Daten/KI,Portfolio,Portfolio,keine,Deutsch,532,DLBFMPGKIU01 - Projekt: Generative KI im Unternehmenskontext
+DLBAETWST2,Projekt: Sensoren und Aktoren,6,5,150,Hardware/IoT/Robotik/XR,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Projektbericht,keine,Deutsch,489,DLBAETWST02 - Projekt: Sensoren und Aktoren
+DLBSEPPSD-01_D,Projekt: Software Development mit KI,6,5,150,Programmierung,Projektpräsentation,Projektpräsentation,keine,Deutsch,568,DLBSEPPSD01-01_D - Projekt: Software Development mit KI
+DLBROST_D,Sensorik,6,5,150,Hardware/IoT/Robotik/XR,Klausur,"Klausur, 90 Minuten",keine,Deutsch,481,DLBROST01_D - Sensorik
+DLBSG1,Studium Generale I,6,5,0,Studium Generale,Siehe gewählter Kurs,Siehe gewählter Kurs,keine,Deutsch,553,DLBSG01 - Studium Generale I
+DLBSG2,Studium Generale II,6,5,0,Studium Generale,Siehe gewählter Kurs,Siehe gewählter Kurs,keine,Deutsch,561,Studium Generale II - N.N.	 DLBSG02 - Studium Generale II
+DLBBWOB,Verhalten in Organisationen,6,5,150,Wirtschaft/Organisation,Schriftliche Ausarbeitung,Schriftliche Ausarbeitung: Fallstudie,keine,Deutsch,546,DLBBWOB01 - Verhalten in Organisationen
